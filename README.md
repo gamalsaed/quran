@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Project Documentation
+
+Comprehensive docs for public APIs, functions, and components are available under `docs/`:
+
+- Components: `docs/components/README.md`
+- Pages: `docs/pages/README.md`
+- API helpers and external endpoints: `docs/api/README.md`
+
 ## Getting Started
 
 First, run the development server:
